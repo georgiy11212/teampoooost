@@ -1,0 +1,47 @@
+<html>
+<title>Logika School Сайт</title>
+<h1 style="font-family:sans-serif;background-color:purple;color:white;font-size:50px;text-align:center">LOGIKA SCHOOL</h1>
+<body>
+    <header style="background-color:pink">
+    <b style="font-size:50px">Сьогодні розкажу про:</b>
+    <p style="font-family:sans-serif;font-size:40px">Що я робив на заняттях</p>
+    <p style="font-family:sans-serif;font-size:40px">Які завдання робив</p>
+    <p style="font-family:sans-serif;font-size:40px">Як я робив сайт</p>
+    </header>
+    <main style="background-color:pink">
+    <b style="font-size:50px">Додаткова інформація:</b>
+    <p style="font-family:sans-serif;font-size:40px">Цей сайт зроблений автором цього контенту та Школою Логіки, так що, насолоджуйтесь</p>
+    </main>
+    <footer style="background-color:pink">
+    <b style="font-size:50px">Автор:</b>
+    <p style="font-family:sans-serif;font-size:40px">by: Logika School 2025 & Georgiy Lupan</p>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMMB38J8JsEp0lTsxogfLoikXEfD1WtmRvHg&s"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-vpYMsNxF8CkG8LKIKxlA343M-k1xruhftA&s"><img src="https://media.licdn.com/dms/image/v2/C5603AQGBY9KWs5wNGg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1573122189897?e=2147483647&v=beta&t=1KFwBy7qiSn_MmDuUBLYvBvySCjCN18iB41R7N1V3dc"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp2WbB-R4WFYuH4GCqWYToI1cA_K_iVvQIRw&s">
+    </footer>
+</body>
+<p style="color:purple;font-family:sans-serif;font-size:20px;background-color:pink">Усім привіт! На зв'язку Георгій Валентинович. Сьогодні я розкажу вам про те, як я навчився створювати сайти мовою html.</p>
+<img src="https://static.tildacdn.one/tild6363-6633-4162-b235-633564633464/_.svg">
+<p style="color:purple;font-family:sans-serif;font-size:20px;background-color:pink">Спершу я почав займатися у 2024 році перший раз 45 хвиилин. Потім я почав займатися як завжди, о 17 годині до о пів на 19, тобто півтора години.</p>
+<img src="https://tickikids.ams3.cdn.digitaloceanspaces.com/z1.cache/gallery/organizations/5636/image_67064245320c64.14153638.jpg">
+<p style="color:purple;font-family:sans-serif;font-size:20px;background-color:pink">А як я робив завдання робив, спочатку я не розумів, що, куди, куди додавати ці теги і т.д..</p>
+<p style="color:purple;font-family:sans-serif;font-size:20px;background-color:pink">Як я робив сайт, та за допомогою якої програми я запостив його в інтернет? Я користувався програмою, яку звати GitHub. Щоб створити свій сайт, треба спочатку увійти в аккаунт, потім використовувати такі ж самі теги, як на платформі логіки. Потім треба натиснути на commit changes, потім на pages і все, сайт у сторінці GitHubу.</p>
+    <table>
+        <tr style="border:1px soild green">
+            <td style="background-color:purple;font-family:sans-serif;color:white;font-size:25px">ІМ'Я</td>
+            <td style="background-color:purple;font-family:sans-serif;color:white;font-size:25px">МОДУЛЬ</td>
+            <td style="background-color:purple;font-family:sans-serif;color:white;font-size:25px">МОВА</td>
+            <td style="background-color:purple;font-family:sans-serif;color:white;font-size:25px">УРОК</td>
+            <td style="background-color:purple;font-family:sans-serif;color:white;font-size:25px">ВЧИТЕЛЬ</td>
+            <td style="background-color:purple;font-family:sans-serif;color:white;font-size:25px">ОЦІНКА</td>
+        </tr>
+        <tr style="border:1px soild green">
+            <td style="background-color:blue;color:white;font-size:20px">Георгій</td>
+            <td style="background-color:blue;color:white;font-size:20px">1-2</td>
+            <td style="background-color:blue;color:white;font-size:20px">html</td>
+            <td style="background-color:blue;color:white;font-size:20px">7</td>
+            <td style="background-color:blue;color:white;font-size:20px">Олександр Пилипенко / Владислав Фуштор</td>
+            <td style="background-color:blue;color:white;font-size:20px">10 логіків / 10 логіків</td>
+        </tr>
+    </table>
+<p style="text-align:center;font-family:sans-serif;font-size:20px">м.Київ, 00666, метро Осокорки, вулиця Княжий Затон, 25</p>
+<p style="text-align:center;font-family:sans-serif;font-size:20px">+38 (099) 799 - 96 - 69</p>  
+</html>
